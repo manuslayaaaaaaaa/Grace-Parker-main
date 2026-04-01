@@ -1,1 +1,366 @@
-{"sections":{"advanced_content_gEp8Cm":{"type":"advanced-content","blocks":{"liquid_RpALFt":{"type":"liquid","settings":{"code":"<style>\n  .promo-bar {\n    width: 100%;\n    background: \n#d1a971;\n    padding: 12px 20px;\n    text-align: center;\n    box-sizing: border-box;\n  }\n  .promo-bar p {\n    margin: 0 !important;\n    color: \n#ffffff !important;\n    font-family: \"Montserrat\", sans-serif !important;\n    font-size: 11px !important;\n    font-weight: 700 !important;\n    letter-spacing: 0.3em !important;\n    text-transform: uppercase !important;\n    line-height: 1.2 !important;\n  }\n<\/style>\n<div class=\"promo-bar\">\n  <p><strong>BUY 2, GET AN EXTRA 10% OFF<\/strong><\/p>\n<\/div>","width":"100%","alignment":"center"}}},"block_order":["liquid_RpALFt"],"custom_css":[],"name":"t:sections.advanced-content.presets.custom_content.name","settings":{"full_width":true,"space_around":false,"lazyload_images":true}},"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"image","settings":{"top_subheading":"Up to 70% off","title":"25 year anniversary sale","title_size":62,"subheading":"","link":"shopify:\/\/collections","link_text":"Shop Now","link_2":"shopify:\/\/collections\/all","link_text_2":"","color_accent":"#ffffff","text_align":"vertical-bottom horizontal-center","image":"shopify:\/\/shop_images\/grace_winkel.png","image_mobile":"shopify:\/\/shop_images\/grace_winkel_1.png","parallax_direction":"top","overlay_opacity":0}}},"block_order":["slideshow-0"],"settings":{"section_height":"100vh","mobile_height":"auto","parallax":false,"style":"bars","autoplay":false,"autoplay_speed":7,"lazyload_images":true}},"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","disabled":true,"settings":{"title":"Autumn Collection"}},"text":{"type":"text","disabled":true,"settings":{"enlarge_text":false,"text":"<p><strong>Lucy & Porter is a family-run boutique in the heart of Boston.<\/strong><br\/><br\/>Lucy & Porter began with a mother’s dream 25 years of late-night sewing, handpicked fabrics, and the hope of creating a place where women felt truly seen. Little Porter grew up in the middle of it all, watching her mother pour her heart into every stitch and every customer who walked through the door.<\/p><p>Now, as Lucy steps back due to her health, Porter is doing everything she can to carry that legacy forward. Every order helps keep their family’s dream alive and honors the devotion that built this boutique from the ground up.<\/p><p>Thank you for supporting a small family business built with love, resilience, and heart. 🤍✨<\/p>"}}},"block_order":["heading","text"],"settings":{"align_text":"center","narrow_column":true,"divider":false}},"featured_collections_cfHkr4":{"type":"featured-collections","blocks":{"collection_3c6EHD":{"type":"collection","settings":{"collection":"dresses","title":"Dresses (Bestsellers)","focal_point":"center center"}},"collection_AeLxPN":{"type":"collection","settings":{"collection":"swimwear","title":"","focal_point":"center center"}},"collection_ATJQQ3":{"type":"collection","settings":{"collection":"shirts-tops","title":"","focal_point":"center center"}},"collection_XQTnUH":{"type":"collection","settings":{"collection":"newest-loafers","title":"","focal_point":"center center"}}},"block_order":["collection_3c6EHD","collection_AeLxPN","collection_ATJQQ3","collection_XQTnUH"],"name":"t:sections.featured-collections.presets.collection_list.name","settings":{"title":"","divider":false,"per_row":4,"enable_gutter":true}},"text_and_image_nfpwGg":{"type":"text-and-image","name":"t:sections.text-and-image.presets.image_with_text.name","settings":{"image":"shopify:\/\/shop_images\/grace_productfoto_1.png","image_mask":"none","image2_mask":"none","subtitle":"","title":"","text":"<p><strong>Grace & Parker is a family-run boutique in the heart of Boston.<\/strong><br\/><br\/>Grace & Parker began with a mother’s dream — 25 years of late-night sewing, handpicked fabrics, and the hope of creating a place where women felt truly seen. Little Porter grew up in the middle of it all, watching her mother pour her heart into every stitch and every customer who walked through the door.<\/p><p>Now, as Grace steps back due to her health, Parker is doing everything she can to carry that legacy forward. Every order helps keep their family’s dream alive and honors the devotion that built this boutique from the ground up.<\/p><p>Thank you for supporting a small family business built with love, resilience, and heart. 🤍✨<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"center","image_width":"50","layout":"right","divider":false,"top_padding":true,"bottom_padding":false,"lazyload_images":false}},"580bc108-8f79-4c00-b080-103cccb091ef":{"type":"featured-collection","settings":{"title":"Bestsellers","home_featured_products":"collectie","per_row":5,"rows":2,"mobile_scrollable":true,"view_all":true,"divider":false}},"rich_text_i6bwf4":{"type":"rich-text","blocks":{"heading_MzN47m":{"type":"heading","settings":{"title":""}},"text_tX6dTM":{"type":"text","settings":{"enlarge_text":true,"text":"<p>  <\/p>"}}},"block_order":["heading_MzN47m","text_tX6dTM"],"name":"t:sections.rich-text.presets.rich_text.name","settings":{"align_text":"center","narrow_column":true,"divider":false}},"testimonials_fMUe9F":{"type":"testimonials","blocks":{"testimonial_478iic":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>“My new favorite boutique. Everything feels thoughtfully made and incredibly flattering.”<\/p>","image":"shopify:\/\/shop_images\/imgi_18_d4598049ef5b75283e1d8c099985c88d.avif","author":"Hannah L.","author_info":"Philadelphia"}},"testimonial_gjjViq":{"type":"testimonial","settings":{"icon":"4-stars","testimonial":"<p>“Fantastic experience with Grace & Parker. The order arrived quickly and safely, and the quality of the products is top notch. It was a little exciting to order online for the first time, but everything went exactly as expected. I will definitely order again!”<\/p>","image":"shopify:\/\/shop_images\/imgi_19_imgi_2_31.avif","author":"Evelyn L.","author_info":"New York"}},"testimonial_tJjern":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>“I like my clothes to be comfortable. I ordered 3 jumpers and they fit perfectly!”<\/p>","image":"shopify:\/\/shop_images\/imgi_20_imgi_2_32.avif","author":"Judith C.","author_info":"Phoenix"}},"testimonial_X3ga9m":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>“Have ordered here several times now and each time has been an excellent experience. Products and service are from high quality. Truly a store you can trust!”<\/p>","image":"shopify:\/\/shop_images\/imgi_21_imgi_2_30.avif","author":"Elizabeth S.","author_info":"Los Angeles"}},"testimonial_WzAyUz":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>“I was hesitant to spend $150 on a jacket from a website I didn’t know, but I’m so glad I did! The quality is amazing and the fit is perfect. Thanks Grace & Parker!!”<\/p>","image":"shopify:\/\/shop_images\/imgi_22_975bae1c08b94e6dbae3d4b388d4da68.avif","author":"Michelle C.","author_info":"Chicago"}}},"block_order":["testimonial_478iic","testimonial_gjjViq","testimonial_tJjern","testimonial_X3ga9m","testimonial_WzAyUz"],"settings":{"title":"","align_text":"center","round_images":true,"color_background":"#fafafa","color_text":"#1c1d1d"}},"rich_text_NkbC7k":{"type":"rich-text","blocks":{"heading_Y9AgpW":{"type":"heading","settings":{"title":""}},"text_c9edfW":{"type":"text","settings":{"enlarge_text":true,"text":"<p> <\/p>"}}},"block_order":["heading_Y9AgpW","text_c9edfW"],"name":"t:sections.rich-text.presets.rich_text.name","settings":{"align_text":"center","narrow_column":true,"divider":false}},"text_and_image_DViqR8":{"type":"text-and-image","name":"t:sections.text-and-image.presets.image_with_text.name","settings":{"image":"shopify:\/\/shop_images\/Nietmijnpakketstelennigga.png","image_mask":"none","image2_mask":"landscape","subtitle":"","title":"Proven Quality, Trusted by Many","text":"<p>Grace & Parker isn’t just a brand, it’s a promise. With <strong>115,000 satisfied customers <\/strong>and recognition in Vogue, we continue to deliver fashion you can trust.<\/p><p><\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"center","image_width":"50","layout":"right","divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":false}},"rich_text_dabN9e":{"type":"rich-text","blocks":{"heading_rFz4BU":{"type":"heading","settings":{"title":""}},"text_FadFRQ":{"type":"text","settings":{"enlarge_text":true,"text":"<p> <\/p>"}}},"block_order":["heading_rFz4BU","text_FadFRQ"],"name":"t:sections.rich-text.presets.rich_text.name","settings":{"align_text":"center","narrow_column":true,"divider":false}}},"order":["advanced_content_gEp8Cm","slideshow","rich-text","featured_collections_cfHkr4","text_and_image_nfpwGg","580bc108-8f79-4c00-b080-103cccb091ef","rich_text_i6bwf4","testimonials_fMUe9F","rich_text_NkbC7k","text_and_image_DViqR8","rich_text_dabN9e"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "advanced_content_gEp8Cm": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_RpALFt": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n  .promo-bar {\n    width: 100%;\n    background: \n#d1a971;\n    padding: 12px 20px;\n    text-align: center;\n    box-sizing: border-box;\n  }\n  .promo-bar p {\n    margin: 0 !important;\n    color: \n#ffffff !important;\n    font-family: \"Montserrat\", sans-serif !important;\n    font-size: 11px !important;\n    font-weight: 700 !important;\n    letter-spacing: 0.3em !important;\n    text-transform: uppercase !important;\n    line-height: 1.2 !important;\n  }\n</style>\n<div class=\"promo-bar\">\n  <p><strong>BUY 2, GET AN EXTRA 10% OFF</strong></p>\n</div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_RpALFt"
+      ],
+      "custom_css": [],
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Up to 70% off",
+            "title": "25 year anniversary sale",
+            "title_size": 62,
+            "subheading": "",
+            "link": "shopify://collections",
+            "link_text": "Shop Now",
+            "link_2": "shopify://collections/all",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify://shop_images/grace_winkel.png",
+            "image_mobile": "shopify://shop_images/grace_winkel_2.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "100vh",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Autumn Collection"
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>Lucy & Porter is a family-run boutique in the heart of Boston.</strong><br/><br/>Lucy & Porter began with a mother’s dream 25 years of late-night sewing, handpicked fabrics, and the hope of creating a place where women felt truly seen. Little Porter grew up in the middle of it all, watching her mother pour her heart into every stitch and every customer who walked through the door.</p><p>Now, as Lucy steps back due to her health, Porter is doing everything she can to carry that legacy forward. Every order helps keep their family’s dream alive and honors the devotion that built this boutique from the ground up.</p><p>Thank you for supporting a small family business built with love, resilience, and heart. 🤍✨</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured_collections_cfHkr4": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_3c6EHD": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses",
+            "title": "Dresses (Bestsellers)",
+            "focal_point": "center center"
+          }
+        },
+        "collection_AeLxPN": {
+          "type": "collection",
+          "settings": {
+            "collection": "swimwear",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_ATJQQ3": {
+          "type": "collection",
+          "settings": {
+            "collection": "shirts-tops",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_XQTnUH": {
+          "type": "collection",
+          "settings": {
+            "collection": "newest-loafers",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_3c6EHD",
+        "collection_AeLxPN",
+        "collection_ATJQQ3",
+        "collection_XQTnUH"
+      ],
+      "name": "t:sections.featured-collections.presets.collection_list.name",
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "text_and_image_nfpwGg": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "text": "<p><strong>Grace & Parker is a family-run boutique in the heart of Boston.</strong><br/><br/>Grace & Parker began with a mother’s dream — 25 years of late-night sewing, handpicked fabrics, and the hope of creating a place where women felt truly seen. Little Porter grew up in the middle of it all, watching her mother pour her heart into every stitch and every customer who walked through the door.</p><p>Now, as Grace steps back due to her health, Parker is doing everything she can to carry that legacy forward. Every order helps keep their family’s dream alive and honors the devotion that built this boutique from the ground up.</p><p>Thank you for supporting a small family business built with love, resilience, and heart. 🤍✨</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": false
+      }
+    },
+    "580bc108-8f79-4c00-b080-103cccb091ef": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Bestsellers",
+        "home_featured_products": "collectie",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "rich_text_i6bwf4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MzN47m": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_tX6dTM": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>  </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MzN47m",
+        "text_tX6dTM"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "testimonials_fMUe9F": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_478iic": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“My new favorite boutique. Everything feels thoughtfully made and incredibly flattering.”</p>",
+            "author": "Hannah L.",
+            "author_info": "Philadelphia"
+          }
+        },
+        "testimonial_gjjViq": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "4-stars",
+            "testimonial": "<p>“Fantastic experience with Grace & Parker. The order arrived quickly and safely, and the quality of the products is top notch. It was a little exciting to order online for the first time, but everything went exactly as expected. I will definitely order again!”</p>",
+            "author": "Evelyn L.",
+            "author_info": "New York"
+          }
+        },
+        "testimonial_tJjern": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“I like my clothes to be comfortable. I ordered 3 jumpers and they fit perfectly!”</p>",
+            "author": "Judith C.",
+            "author_info": "Phoenix"
+          }
+        },
+        "testimonial_X3ga9m": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Have ordered here several times now and each time has been an excellent experience. Products and service are from high quality. Truly a store you can trust!”</p>",
+            "author": "Elizabeth S.",
+            "author_info": "Los Angeles"
+          }
+        },
+        "testimonial_WzAyUz": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“I was hesitant to spend $150 on a jacket from a website I didn’t know, but I’m so glad I did! The quality is amazing and the fit is perfect. Thanks Grace & Parker!!”</p>",
+            "author": "Michelle C.",
+            "author_info": "Chicago"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_478iic",
+        "testimonial_gjjViq",
+        "testimonial_tJjern",
+        "testimonial_X3ga9m",
+        "testimonial_WzAyUz"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#fafafa",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "rich_text_NkbC7k": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Y9AgpW": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_c9edfW": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p> </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Y9AgpW",
+        "text_c9edfW"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_and_image_DViqR8": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "landscape",
+        "subtitle": "",
+        "title": "Proven Quality, Trusted by Many",
+        "text": "<p>Grace & Parker isn’t just a brand, it’s a promise. With <strong>115,000 satisfied customers </strong>and recognition in Vogue, we continue to deliver fashion you can trust.</p><p></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_dabN9e": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rFz4BU": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text_FadFRQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p> </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rFz4BU",
+        "text_FadFRQ"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "advanced_content_gEp8Cm",
+    "slideshow",
+    "rich-text",
+    "featured_collections_cfHkr4",
+    "text_and_image_nfpwGg",
+    "580bc108-8f79-4c00-b080-103cccb091ef",
+    "rich_text_i6bwf4",
+    "testimonials_fMUe9F",
+    "rich_text_NkbC7k",
+    "text_and_image_DViqR8",
+    "rich_text_dabN9e"
+  ]
+}
