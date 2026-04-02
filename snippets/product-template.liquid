@@ -358,34 +358,7 @@
         data-base-url="{{ shop.url }}{{ routes.root_url }}"
         ></div>
     {%- endif -%}
-
-    {% assign ship_timestamp = 'now' | date: '%s' | plus: 172800 %}
-    {% assign ship_weekday = ship_timestamp | date: '%a' %}
-    {% assign ship_month = ship_timestamp | date: '%b' %}
-    {% assign ship_day = ship_timestamp | date: '%-d' %}
-
-    <div style="height: -5px;"></div>
-
-    <div class="shipping-bar">
-      <div class="shipping-bar__left">
-        <span class="shipping-bar__pulse"></span>
-        <span class="shipping-bar__text">
-          Ships by {{ ship_weekday }}, {{ ship_month }} {{ ship_day }}
-        </span>
-      </div>
-
-      <div class="shipping-bar__right">
-        <img
-          class="shipping-bar__flag"
-          src="https://cdn.shopify.com/s/files/1/0947/5014/6825/t/2/assets/1-ezgif.com-webp-to-png-converter.png?v=1749726846"
-          alt="US flag"
-          loading="lazy"
-        >
-        <span class="shipping-bar__shipping-text"><strong>Free</strong> Shipping</span>
-      </div>
-    </div>
   </div>
-
   <div class="product-block">
     <div class="ultimate-badges"></div>
   </div>
@@ -394,13 +367,13 @@
     .shipping-bar {
       width: 100%;
       background: #f5f5f5;
-      border-radius: 12px;
-      padding: 9px 14px;
+      border-radius: 14px;
+      padding: 10px 14px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       font-family: 'Montserrat', sans-serif;
-      margin-top: 0;
+      margin-top: 10px;
     }
 
     .shipping-bar__left {
@@ -420,12 +393,12 @@
     }
 
     .shipping-bar__pulse {
-      width: 11px;
-      height: 11px;
-      min-width: 11px;
+      width: 10px;
+      height: 10px;
+      min-width: 10px;
       border-radius: 50%;
       background: #2c565b;
-      animation: shippingPulse 1s ease-in-out infinite;
+      animation: shippingPulse 1.2s ease-in-out infinite;
     }
 
     @keyframes shippingPulse {
@@ -462,7 +435,7 @@
     @media screen and (max-width: 749px) {
       .shipping-bar {
         padding: 8px 12px;
-        border-radius: 11px;
+        border-radius: 12px;
       }
 
       .shipping-bar__text,
@@ -471,9 +444,9 @@
       }
 
       .shipping-bar__pulse {
-        width: 9px;
-        height: 9px;
-        min-width: 9px;
+        width: 8px;
+        height: 8px;
+        min-width: 8px;
       }
 
       .shipping-bar__flag {
