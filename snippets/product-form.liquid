@@ -43,6 +43,41 @@
       </span>
     </button>
 
+    </button>
+
+    <style>
+      @keyframes colorchange {
+        0%   { background-color: #2c565b; }
+        100% { background-color: #90a4a7; }
+      }
+      .pulse-circle {
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        display: inline-block;
+        animation: colorchange 0.5s infinite alternate ease-in-out;
+      }
+    </style>
+
+    <div class="shipping-bar" style="display:flex;justify-content:space-between;align-items:center;background:#F5F5F5;border-radius:6px;padding:10px 16px;font-size:13px;font-family:Montserrat,sans-serif;color:#000;margin-top:8px;">
+      <div style="display:flex;align-items:center;gap:8px;">
+        <span class="pulse-circle"></span>
+        <span id="ship-date"></span>
+      </div>
+      <div style="display:flex;align-items:center;gap:8px;">
+        <img src="https://cdn.shopify.com/s/files/1/0947/5014/6825/t/2/assets/1-ezgif.com-webp-to-png-converter.png?v=1749726846" style="width:22px;height:22px;border-radius:50%;object-fit:cover;" alt="US">
+        <span><strong>Free</strong> Shipping</span>
+      </div>
+    </div>
+
+    <script>
+      var days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+      var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      var d = new Date();
+      d.setDate(d.getDate() + 2);
+      document.getElementById('ship-date').textContent = 'Ships by ' + days[d.getDay()] + ', ' + months[d.getMonth()] + ' ' + d.getDate();
+    </script>
+
     {%- if enable_dynamic_buttons -%}
       {{ form | payment_button }}
     {%- endif -%}
