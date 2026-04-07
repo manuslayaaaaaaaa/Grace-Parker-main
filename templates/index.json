@@ -116,18 +116,18 @@
             "focal_point": "center center"
           }
         },
-        "collection_ATJQQ3": {
-          "type": "collection",
-          "settings": {
-            "collection": "shirts-tops",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
         "collection_XQTnUH": {
           "type": "collection",
           "settings": {
             "collection": "newest-loafers-1",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_ATJQQ3": {
+          "type": "collection",
+          "settings": {
+            "collection": "shirts-tops",
             "title": "",
             "focal_point": "center center"
           }
@@ -136,8 +136,8 @@
       "block_order": [
         "collection_3c6EHD",
         "collection_AeLxPN",
-        "collection_ATJQQ3",
-        "collection_XQTnUH"
+        "collection_XQTnUH",
+        "collection_ATJQQ3"
       ],
       "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
