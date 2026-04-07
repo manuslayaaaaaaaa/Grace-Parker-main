@@ -54,6 +54,28 @@
         "grid": "4"
       }
     },
+    "text_and_image_nMt4KP": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Nietmijnpakketstelennigga_3.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Proven Quality, Trusted by Many",
+        "text": "<p>Jamie's Boutique isn’t just a brand, it’s a promise. With <strong>115,000 satisfied customers </strong>and recognition in Vogue, we continue to deliver fashion you can trust</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "logo-list": {
       "type": "logo-list",
       "blocks": {
@@ -113,6 +135,7 @@
   "order": [
     "slideshow_bMYkFi",
     "main",
+    "text_and_image_nMt4KP",
     "logo-list"
   ]
 }
