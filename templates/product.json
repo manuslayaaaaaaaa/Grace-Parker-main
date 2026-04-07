@@ -145,6 +145,7 @@
         "selluxe_followers_T9XW6r": {
           "type": "selluxe_followers",
           "settings": {
+            "profile_picture_1": "shopify://shop_images/jenifer_aniston.avif",
             "reviewers": "<strong>Jennifer Aniston</strong>",
             "show_verified": true,
             "add_text": "and <strong>115+</strong> other women love <strong>Grace and Parker.</strong>",
@@ -375,50 +376,6 @@
         "color_text": "#1c1d1d"
       }
     },
-    "text_with_icons_Q8WN8G": {
-      "type": "text-with-icons",
-      "blocks": {
-        "text_block_PXYphH": {
-          "type": "text_block",
-          "settings": {
-            "icon": "trophy",
-            "title": "100% Secure Payment",
-            "text": "<p>We offer you a variety of secure payment options. Pay easily and enjoy a safe shopping experience.</p>"
-          }
-        },
-        "text_block_f3GT7y": {
-          "type": "text_block",
-          "settings": {
-            "icon": "truck",
-            "title": "Free Insured Shipping With UPS",
-            "text": "<p>We offer Free Shipping for maximum customer comfort. Your satisfaction is important to us, which is why we offer smooth and free delivery.</p>"
-          }
-        },
-        "text_block_pgeXmX": {
-          "type": "text_block",
-          "settings": {
-            "icon": "shield",
-            "title": "30 Day Money Back Guarantee",
-            "text": "<p>Your satisfaction is our focus. Our 30-day return policy guarantees you maximum flexibility and the best shopping experience.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_PXYphH",
-        "text_block_f3GT7y",
-        "text_block_pgeXmX"
-      ],
-      "custom_css": [],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "desktop_columns_per_row": 3,
-        "icon_color": "#000000",
-        "button_label": "",
-        "button_link": "",
-        "divider": false
-      }
-    },
     "faq_N9hAPP": {
       "type": "faq",
       "blocks": {
@@ -469,6 +426,50 @@
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
         "title": "FAQS",
+        "divider": false
+      }
+    },
+    "text_with_icons_Q8WN8G": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_PXYphH": {
+          "type": "text_block",
+          "settings": {
+            "icon": "trophy",
+            "title": "100% Secure Payment",
+            "text": "<p>We offer you a variety of secure payment options. Pay easily and enjoy a safe shopping experience.</p>"
+          }
+        },
+        "text_block_f3GT7y": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "Free Insured Shipping With UPS",
+            "text": "<p>We offer Free Shipping for maximum customer comfort. Your satisfaction is important to us, which is why we offer smooth and free delivery.</p>"
+          }
+        },
+        "text_block_pgeXmX": {
+          "type": "text_block",
+          "settings": {
+            "icon": "shield",
+            "title": "30 Day Money Back Guarantee",
+            "text": "<p>Your satisfaction is our focus. Our 30-day return policy guarantees you maximum flexibility and the best shopping experience.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_PXYphH",
+        "text_block_f3GT7y",
+        "text_block_pgeXmX"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
         "divider": false
       }
     }
