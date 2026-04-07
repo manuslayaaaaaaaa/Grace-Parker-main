@@ -35,8 +35,8 @@
           "type": "custom",
           "settings": {
             "show_footer_title": false,
-            "title": "STORE HOURS",
-            "text": "<p><strong>Mon - Fri:</strong> 9 AM - 7 PM</p><p><strong>Weekends:</strong> 10 AM - 5 PM</p><p>📍 Boston</p>",
+            "title": "",
+            "text": "<p><strong>STORE HOURS<br/><br/>Mon - Fri:</strong> 9 AM - 7 PM</p><p><strong>Weekends:</strong> 10 AM - 5 PM</p><p>📍 Boston</p>",
             "container_width": 35
           }
         },
